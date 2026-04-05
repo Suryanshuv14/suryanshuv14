@@ -8,6 +8,7 @@ Interested in low-level systems, Linux, and how things work under the hood.
 - Linux user, comfortable in the terminal
 - Like working close to the hardware
 <br>
+
 ## Stack
 
 ```
@@ -16,7 +17,6 @@ Systems     →   Linux   Shell
 Hardware    →   ESP32, Arduino
 Tools       →   Git
 ```
-
 <br>
 
 ## Projects
