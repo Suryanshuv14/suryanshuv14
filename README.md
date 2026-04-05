@@ -19,12 +19,6 @@ Tools       →   Git
 ```
 <br>
 
-## Projects
-
-**ESP32-Based Drone**  
-Built on a fork of the Flix project. Handled hardware assembly, electronics, and full system integration. Firmware by the original author.
-<br>
-
 ## Currently Learning
 
 - Data Structures & Algorithms
