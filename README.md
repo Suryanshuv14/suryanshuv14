@@ -9,6 +9,7 @@ Interested in low-level systems, Linux, and how things work under the hood.
 - Like working close to the hardware
 <br>
 ## Stack
+
 ```
 Languages   →   C   C++   Python
 Systems     →   Linux   Shell
